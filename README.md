@@ -1,5 +1,4 @@
 # Foxy Planner
-### Made by Afonso Navarini
 
 Your task management app!
 
@@ -15,3 +14,5 @@ This project is a task management application that helps you keep track of your 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+### Made by Afonso Navarini
