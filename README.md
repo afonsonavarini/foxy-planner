@@ -1,15 +1,16 @@
-# personal
+# Foxy Planner
+### Made by Afonso Navarini
 
-A new Flutter project.
+Your task management app!
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a task management application that helps you keep track of your commitments made using Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+- Make sure to type `flutter pub get` when you first open the project in order to install its dependencies.
+- Use `flutter run` to run your application.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Flutter Guide
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
