@@ -1,4 +1,4 @@
-# Foxy Planner
+# 🦊 Foxy Planner
 
 Your task management app!
 
